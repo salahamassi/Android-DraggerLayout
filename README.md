@@ -32,9 +32,11 @@ Your Xml will look like:
 
 ```
 
-# ScreenShot
+# Video
 
-![swip](https://user-images.githubusercontent.com/17902030/41172834-c1eb88c6-6b5d-11e8-97fd-729037d85c4d.gif)
+[![Adnroid activity Pull Down to dismiss
+](https://user-images.githubusercontent.com/17902030/41181914-37e8bc24-6b7c-11e8-9b75-362da6b30c09.png)](https://www.youtube.com/watch?v=KwGH2_iqMBo "Adnroid activity Pull Down to dismiss
+")
 
 # Developer contact 
    * [Facebook](https://www.facebook.com/profile.php?id=100006656534009)
