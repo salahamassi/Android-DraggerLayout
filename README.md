@@ -38,6 +38,10 @@ Your Xml will look like:
 ](https://user-images.githubusercontent.com/17902030/41181914-37e8bc24-6b7c-11e8-9b75-362da6b30c09.png)](https://www.youtube.com/watch?v=KwGH2_iqMBo "Adnroid activity Pull Down to dismiss
 ")
 
+# Thanks To
+   * [ViewDragHelper](https://developer.android.com/reference/android/support/v4/widget/ViewDragHelper)
+   * [Fedepaol Blog](http://fedepaol.github.io/blog/2014/09/01/dragging-with-viewdraghelper/)
+
 # Developer contact 
    * [Facebook](https://www.facebook.com/profile.php?id=100006656534009)
    * [Twitter](https://twitter.com/salahamassi)
